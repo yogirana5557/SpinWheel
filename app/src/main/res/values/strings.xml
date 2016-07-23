@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spin Wheel</string>
+    <string name="music_title">Sound</string>
+    <string name="music_summary">Toggle wheel sound</string>
+    <string name="settings_label">Settings</string>
+    <string name="settings_title">Decision Maker settings</string>
+    <string name="settings_shortcut">s</string>
+</resources>

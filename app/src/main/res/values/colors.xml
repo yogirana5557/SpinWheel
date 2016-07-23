@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="background">#ff000000</color>
+    <color name="background_color">#ffdbfff4</color>
+    <color name="marker_color">#aaffffff</color>
+    <color name="text_color">#ff000000</color>
+    <color name="title_color">#ffffffff</color>
+    <color name="wheel_color">#ffc0c0c0</color>
+    <color name="pointer_color">#ffffa130</color>
+    <color name="item1_color">#ff365bff</color>
+    <color name="item2_color">#ffff2738</color>
+    <color name="item3_color">#ffffef4f</color>
+    <color name="item4_color">#ff53ff69</color>
+    <color name="item5_color">#ff43e9ff</color>
+    <color name="item6_color">#ffff30ee</color>
+    <color name="item7_color">#ff8dffad</color>
+    <color name="item8_color">#ffffa1f2</color>
+    <color name="item9_color">#ffffb57f</color>
+    <color name="item10_color">#ffff9320</color>
+    <color name="item11_color">#ff307727</color>
+    <color name="item12_color">#ff8224ff</color>
+    <color name="item13_color">#ffff3089</color>
+    <color name="item14_color">#ff949494</color>
+    <color name="item15_color">#ff86452e</color>
+</resources>
